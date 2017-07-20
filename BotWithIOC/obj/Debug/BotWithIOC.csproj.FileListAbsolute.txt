@@ -41,3 +41,5 @@ C:\lab\BotWithIOC\BotWithIOC\bin\Microsoft.Rest.ClientRuntime.xml
 C:\lab\BotWithIOC\BotWithIOC\bin\it\Microsoft.Bot.Builder.resources.dll
 C:\lab\BotWithIOC\BotWithIOC\bin\nl\Microsoft.Bot.Builder.resources.dll
 C:\lab\BotWithIOC\BotWithIOC\obj\Debug\BotWithIOC.csprojResolveAssemblyReference.cache
+C:\lab\BotWithIOC\BotWithIOC\bin\Autofac.Integration.WebApi.dll
+C:\lab\BotWithIOC\BotWithIOC\bin\Autofac.Integration.WebApi.xml
