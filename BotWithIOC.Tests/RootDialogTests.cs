@@ -17,16 +17,12 @@ namespace BotWithIOC.Tests
     [TestClass]
     public class RootDialogTests : DialogTestBase
     {
-        public IDialog<object> t()
-
-        {
-            return new RootDialog2();
-        }
+        
         [TestMethod]
         public async Task ShouldReturnCount()
         {
             // Instantiate dialog to test
-            IDialog<object> rootDialog = new RootDialog2();
+            IDialog<object> rootDialog = new RootDialog();
 
             // Create in-memory bot environment
             Func<IDialog<object>> MakeRoot = () => rootDialog;
